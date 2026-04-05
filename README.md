@@ -19,4 +19,4 @@
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy-liard-delta.vercel.app/?username=killerdeath430&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github-profile-trophy-kannan.vercel.app/?username=killerdeath430)
 ---
-[![](https://visitcount.itsvg.in/api?id=killerdeath430&icon=0&color=2)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=killerdeath430&color=blue&style=flat)
