@@ -22,5 +22,7 @@
     <img src="https://github-profile-trophy-kannan.vercel.app/?username=killerdeath430&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
   </a>
 </div>
+
 ---
+
 ![](https://komarev.com/ghpvc/?username=killerdeath430&color=blue&style=flat)
