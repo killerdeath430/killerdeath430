@@ -17,6 +17,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=killerdeath430&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=killerdeath430&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
-[![](https://github-profile-trophy-liard-delta.vercel.app/?username=killerdeath430&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github-profile-trophy-kannan.vercel.app/?username=killerdeath430)
+<div align="center">
+  <a href="https://github.com/killerdeath430">
+    <img src="https://github-profile-trophy-kannan.vercel.app/?username=killerdeath430&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
+  </a>
+</div>
 ---
 ![](https://komarev.com/ghpvc/?username=killerdeath430&color=blue&style=flat)
